@@ -6,7 +6,7 @@ function Contact() {
     >
       <div className="max-w-4xl mx-auto px-6 text-center">
 
-        <p className="text-blue-500 uppercase tracking-[0.2em] text-sm mb-3">
+        <p className="text-white uppercase tracking-[0.2em] text-sm mb-3">
           Get In Touch
         </p>
 
